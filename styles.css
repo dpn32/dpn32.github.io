@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(assets/backg.png) 
+}
+body {
+    background-size: 100%;
+}
+body {
+    font-family: 'Inconsolata', monospace;
+}
+.topnav {
+    background-color: #333333;
+    overflow: hidden;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .topnav img {
+    padding-left: 100px;
+    padding-top: 3px;
+    width: 55px;
+    height: 55px;
+    background: #333333;
+  }
+  .topnav a {
+    float: left;
+    color: #ff0099;
+    text-align: center;
+    padding: 14px 14px;
+    margin-top: 10px;
+    margin-right: 30px;
+    text-decoration: underline;
+    font-size: 15px;
+  }
+  .topnav a {
+      float: right;
+  }
+h1 {
+    padding: 20px 10%;
+    margin-left: 80px;
+    margin-top: 100px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.job {
+    padding: 20px 10%;
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-size: 25px;
+    color: #ff0099;
+    font-weight: bold;
+}
+h3 {
+    padding: 10px 10%;
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-size: 23px;
+    text-align: left;
+    font-weight: bold;
+}
+p {
+    text-align: center;
+    padding: 10px 10%;
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    text-align: left;
+}
+.wiki {
+    text-align: center;
+    font-size: 25px;
+}
+.dotted {
+    margin: 20px;
+    font-weight: bold;
+    text-align: center;
+}
